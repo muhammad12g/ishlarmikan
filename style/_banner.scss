@@ -1,0 +1,10 @@
+.banner{
+    width: 100%;
+    height: calc(100vh - 70px);
+    background: url('../img/banner_ifap_938x488.jpg') no-repeat center/cover;
+    display: grid;
+    place-items: center;
+    filter: brightness(50%);
+    font-size: 100px;
+    color: #888;
+}

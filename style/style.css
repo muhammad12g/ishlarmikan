@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+footer {
+  width: 100%;
+  height: 300px;
+  background: #222;
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+}
+
+footer p {
+  color: #fff;
+}
+
+@im;
+/*# sourceMappingURL=style.css.map */
